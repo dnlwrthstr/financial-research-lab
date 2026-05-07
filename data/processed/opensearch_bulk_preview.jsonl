@@ -1,0 +1,40 @@
+{"index": {"_index": "market-ohlcv", "_id": "NESN.SW_20240102"}}
+{"ticker": "NESN.SW", "date": "2024-01-02", "open": 104.1681, "high": 104.8304, "low": 103.2902, "close": 104.1966, "volume": 2475893, "simple_return": null, "log_return": null, "traded_value": 257979607.5}
+{"index": {"_index": "market-ohlcv", "_id": "NESN.SW_20240103"}}
+{"ticker": "NESN.SW", "date": "2024-01-03", "open": 102.3642, "high": 102.5705, "low": 101.9721, "close": 102.1026, "volume": 3012563, "simple_return": -0.02009625, "log_return": -0.02030093, "traded_value": 307590601.28}
+{"index": {"_index": "market-ohlcv", "_id": "NESN.SW_20240104"}}
+{"ticker": "NESN.SW", "date": "2024-01-04", "open": 102.8037, "high": 103.4629, "low": 102.5719, "close": 102.7441, "volume": 3707212, "simple_return": 0.00628302, "log_return": 0.00626336, "traded_value": 380894313.38}
+{"index": {"_index": "market-ohlcv", "_id": "NESN.SW_20240105"}}
+{"ticker": "NESN.SW", "date": "2024-01-05", "open": 103.5337, "high": 103.8989, "low": 103.2768, "close": 103.5345, "volume": 3135652, "simple_return": 0.00769295, "log_return": 0.00766351, "traded_value": 324648307.21}
+{"index": {"_index": "market-ohlcv", "_id": "NESN.SW_20240108"}}
+{"ticker": "NESN.SW", "date": "2024-01-08", "open": 102.8033, "high": 103.4488, "low": 101.6813, "close": 103.2398, "volume": 4429407, "simple_return": -0.00284687, "log_return": -0.00285093, "traded_value": 457291080.06}
+{"index": {"_index": "market-ohlcv", "_id": "NESN.SW_20240109"}}
+{"ticker": "NESN.SW", "date": "2024-01-09", "open": 103.8006, "high": 104.0086, "low": 102.6486, "close": 103.6448, "volume": 3258832, "simple_return": 0.00392321, "log_return": 0.00391554, "traded_value": 337761085.1}
+{"index": {"_index": "market-ohlcv", "_id": "NESN.SW_20240110"}}
+{"ticker": "NESN.SW", "date": "2024-01-10", "open": 105.5971, "high": 105.9534, "low": 104.5704, "close": 105.4435, "volume": 3525923, "simple_return": 0.01735394, "log_return": 0.01720508, "traded_value": 371785574.97}
+{"index": {"_index": "market-ohlcv", "_id": "NESN.SW_20240111"}}
+{"ticker": "NESN.SW", "date": "2024-01-11", "open": 107.0173, "high": 107.9473, "low": 105.7203, "close": 106.5884, "volume": 1548993, "simple_return": 0.01085798, "log_return": 0.01079945, "traded_value": 165104651.93}
+{"index": {"_index": "market-ohlcv", "_id": "NESN.SW_20240112"}}
+{"ticker": "NESN.SW", "date": "2024-01-12", "open": 107.8489, "high": 108.1693, "low": 106.915, "close": 107.3693, "volume": 3636115, "simple_return": 0.00732639, "log_return": 0.00729968, "traded_value": 390407072.78}
+{"index": {"_index": "market-ohlcv", "_id": "NESN.SW_20240115"}}
+{"ticker": "NESN.SW", "date": "2024-01-15", "open": 108.3579, "high": 109.1438, "low": 107.3983, "close": 108.1346, "volume": 4548095, "simple_return": 0.00712749, "log_return": 0.00710221, "traded_value": 491806253.12}
+{"index": {"_index": "market-ohlcv", "_id": "NESN.SW_20240116"}}
+{"ticker": "NESN.SW", "date": "2024-01-16", "open": 106.6994, "high": 108.0458, "low": 106.0272, "close": 107.2278, "volume": 2872654, "simple_return": -0.00838567, "log_return": -0.00842103, "traded_value": 308028308.52}
+{"index": {"_index": "market-ohlcv", "_id": "NESN.SW_20240117"}}
+{"ticker": "NESN.SW", "date": "2024-01-17", "open": 107.822, "high": 109.5476, "low": 106.5861, "close": 108.2883, "volume": 3496701, "simple_return": 0.00989017, "log_return": 0.00984158, "traded_value": 378651736.15}
+{"index": {"_index": "market-ohlcv", "_id": "NESN.SW_20240118"}}
+{"ticker": "NESN.SW", "date": "2024-01-18", "open": 106.1794, "high": 107.1737, "low": 105.5427, "close": 106.5303, "volume": 2310706, "simple_return": -0.01623463, "log_return": -0.01636785, "traded_value": 246160110.53}
+{"index": {"_index": "market-ohlcv", "_id": "NESN.SW_20240119"}}
+{"ticker": "NESN.SW", "date": "2024-01-19", "open": 106.2971, "high": 107.309, "low": 105.2243, "close": 106.2031, "volume": 1600164, "simple_return": -0.00307092, "log_return": -0.00307564, "traded_value": 169942399.88}
+{"index": {"_index": "market-ohlcv", "_id": "NESN.SW_20240122"}}
+{"ticker": "NESN.SW", "date": "2024-01-22", "open": 105.5155, "high": 105.9116, "low": 104.9937, "close": 105.7652, "volume": 2740562, "simple_return": -0.00412294, "log_return": -0.00413146, "traded_value": 289856211.94}
+{"index": {"_index": "market-ohlcv", "_id": "NESN.SW_20240123"}}
+{"ticker": "NESN.SW", "date": "2024-01-23", "open": 104.3719, "high": 105.2164, "low": 102.8012, "close": 103.9635, "volume": 4008416, "simple_return": -0.01703519, "log_return": -0.01718196, "traded_value": 416729014.82}
+{"index": {"_index": "market-ohlcv", "_id": "NESN.SW_20240124"}}
+{"ticker": "NESN.SW", "date": "2024-01-24", "open": 103.9508, "high": 105.1757, "low": 102.797, "close": 103.8748, "volume": 2421918, "simple_return": -0.00085339, "log_return": -0.00085375, "traded_value": 251576231.31}
+{"index": {"_index": "market-ohlcv", "_id": "NESN.SW_20240125"}}
+{"ticker": "NESN.SW", "date": "2024-01-25", "open": 105.7235, "high": 105.8843, "low": 104.35, "close": 105.6079, "volume": 1631053, "simple_return": 0.01668455, "log_return": 0.01654689, "traded_value": 172252077.92}
+{"index": {"_index": "market-ohlcv", "_id": "NESN.SW_20240126"}}
+{"ticker": "NESN.SW", "date": "2024-01-26", "open": 105.5121, "high": 106.6711, "low": 104.9069, "close": 105.2751, "volume": 2281984, "simple_return": -0.00315127, "log_return": -0.00315625, "traded_value": 240236089.39}
+{"index": {"_index": "market-ohlcv", "_id": "NESN.SW_20240129"}}
+{"ticker": "NESN.SW", "date": "2024-01-29", "open": 104.1363, "high": 104.4189, "low": 102.9301, "close": 104.0301, "volume": 2648743, "simple_return": -0.01182603, "log_return": -0.01189652, "traded_value": 275549028.94}
