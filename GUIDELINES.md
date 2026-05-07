@@ -185,6 +185,22 @@ Real-world example (Nestlé, etc.)
 - What assumptions matter?
 - What can go wrong?
 
+### Mathematics and notation standard
+
+- The Mathematics section must show the core equations in LaTeX.
+- Every equation block must be followed by a short `Where:` explanation of the variables and symbols used in the equation.
+- Do not assume finance abbreviations or mathematical symbols are obvious to a learner. Explain abbreviations the first time they appear.
+- Keep notation consistent across notebooks. For example, use `r` for a discount rate or return, `t` for a time period, `CF_t` for cash flow in period `t`, and `WACC` for weighted average cost of capital.
+
+### Table and number formatting standard
+
+- Learner-facing tables must use readable finance formatting, not raw scientific notation.
+- Avoid values like `2.343435e-02` in displayed tables. Format this as `2.34%`, `0.0234`, or `0.02` depending on the concept being taught.
+- Use percentages for returns, discount rates, margins, spreads, volatility, and yields.
+- Use currency or thousands/millions labels for monetary values.
+- Round displayed values enough for interpretation, while keeping full precision in the underlying calculation when needed.
+- Scientific notation is acceptable only for internal numerical checks or debugging output, not for teaching tables.
+
 ## 4. Example: DCF Notebook Structure
 
 # Discounted Cash Flow (DCF)
@@ -230,4 +246,3 @@ Reasoning → Agents
 - You can build portfolios
 - You can design AI financial agents
 - You understand markets structurally
-
