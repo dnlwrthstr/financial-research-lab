@@ -1,0 +1,4 @@
+#!/bin/sh
+set -eu
+
+python scripts/clean_notebook_outputs.py --check

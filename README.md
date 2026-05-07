@@ -46,3 +46,19 @@ Then, you can start Jupyter:
 ```bash
 jupyter notebook
 ```
+
+## Notebook Output Hygiene
+
+Before committing or pushing, clear notebook outputs so diffs stay readable:
+
+```bash
+python scripts/clean_notebook_outputs.py
+```
+
+To install the repository Git hooks:
+
+```bash
+sh scripts/install_git_hooks.sh
+```
+
+The pre-commit hook clears staged notebook outputs and re-stages the cleaned notebooks. The pre-push hook checks that no notebook outputs are saved.
