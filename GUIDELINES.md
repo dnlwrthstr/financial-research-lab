@@ -188,7 +188,7 @@ Real-world example (Nestlé, etc.)
 ### Mathematics and notation standard
 
 - The Mathematics section must show the core equations in LaTeX.
-- Every equation block must be followed by a short `Where:` explanation of the variables and symbols used in the equation.
+- Every displayed equation block must be followed immediately by its own short `Where:` explanation of the variables and symbols used in that equation.
 - Variables in `Where:` blocks must use inline LaTeX, for example `$R_t$`, `$CF_t$`, or `$\text{WACC}$`, not code formatting like `R_t`.
 - Do not assume finance abbreviations or mathematical symbols are obvious to a learner. Explain abbreviations the first time they appear.
 - Keep notation consistent across notebooks. For example, use `r` for a discount rate or return, `t` for a time period, `CF_t` for cash flow in period `t`, and `WACC` for weighted average cost of capital.
