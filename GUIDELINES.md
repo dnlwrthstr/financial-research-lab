@@ -31,6 +31,7 @@ financial-research-lab/
 │   ├── 01_ohlcv_basics.ipynb
 │   ├── 02_technical_indicators.ipynb
 │   ├── 03_factor_data.ipynb
+│   ├── 04_alpha_beta_from_market_data.ipynb
 │   └── data_pipeline/
 │       ├── fetch_data.py
 │       └── opensearch_integration.ipynb
@@ -47,7 +48,8 @@ financial-research-lab/
 │   ├── 02_statistics.ipynb
 │   ├── 03_regression.ipynb
 │   ├── 04_monte_carlo.ipynb
-│   └── 05_time_series.ipynb
+│   ├── 05_time_series.ipynb
+│   └── 06_option_pricing_and_greeks.ipynb
 │
 ├── 05_strategies/
 │   ├── 01_value_investing.ipynb
@@ -107,6 +109,7 @@ financial-research-lab/
 #### Topics:
 - OHLCV
 - Indicators (RSI, MACD, MA)
+- Alpha, beta, and market sensitivity from returns
 - Data ingestion (yfinance → OpenSearch/DuckDB)
 
 👉 Output:
@@ -134,6 +137,7 @@ financial-research-lab/
 - Hypothesis testing
 - Regression
 - Monte Carlo simulation
+- Option pricing and Greeks
 
 👉 Output:
 - Run **simulations** and **backtests**
