@@ -15,10 +15,14 @@ financial-research-lab/
 ├── 00_foundations/
 │   ├── 01_financial_statements.ipynb
 │   ├── 02_time_value_of_money.ipynb
-│   ├── 03_discounting_and_wacc.ipynb
-│   ├── 04_equity_basics.ipynb
-│   ├── 05_bond_basics.ipynb
-│   └── 06_market_basics.ipynb
+│   ├── 03_financial_ratios.ipynb
+│   ├── 04_capital_structure.ipynb
+│   ├── 05_discounting_and_wacc.ipynb
+│   ├── 06_equity_basics.ipynb
+│   ├── 07_bond_basics.ipynb
+│   ├── 08_market_basics.ipynb
+│   ├── 09_risk_and_return.ipynb
+│   └── 10_interest_rates_and_yield_curves.ipynb
 │
 ├── 01_valuation/
 │   ├── 01_dcf_model.ipynb
