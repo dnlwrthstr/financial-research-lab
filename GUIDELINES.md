@@ -55,7 +55,8 @@ financial-research-lab/
 │   ├── 03_regression.ipynb
 │   ├── 04_monte_carlo.ipynb
 │   ├── 05_time_series.ipynb
-│   └── 06_option_pricing_and_greeks.ipynb
+│   ├── 06_curve_construction_and_bootstrapping.ipynb
+│   └── 07_option_pricing_and_greeks.ipynb
 │
 ├── 05_strategies/
 │   ├── 01_value_investing.ipynb
