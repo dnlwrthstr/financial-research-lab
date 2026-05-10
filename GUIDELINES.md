@@ -16,7 +16,9 @@ financial-research-lab/
 │   ├── 01_financial_statements.ipynb
 │   ├── 02_time_value_of_money.ipynb
 │   ├── 03_discounting_and_wacc.ipynb
-│   └── 04_market_basics.ipynb
+│   ├── 04_equity_basics.ipynb
+│   ├── 05_bond_basics.ipynb
+│   └── 06_market_basics.ipynb
 │
 ├── 01_valuation/
 │   ├── 01_dcf_model.ipynb
